@@ -1,0 +1,7 @@
+C:\Users\BeautifulBoy\source\repos\Delete_ArrayList\Delete_ArrayList\bin\Debug\Delete_ArrayList.exe.config
+C:\Users\BeautifulBoy\source\repos\Delete_ArrayList\Delete_ArrayList\bin\Debug\Delete_ArrayList.exe
+C:\Users\BeautifulBoy\source\repos\Delete_ArrayList\Delete_ArrayList\bin\Debug\Delete_ArrayList.pdb
+C:\Users\BeautifulBoy\source\repos\Delete_ArrayList\Delete_ArrayList\obj\Debug\Delete_ArrayList.csprojAssemblyReference.cache
+C:\Users\BeautifulBoy\source\repos\Delete_ArrayList\Delete_ArrayList\obj\Debug\Delete_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\BeautifulBoy\source\repos\Delete_ArrayList\Delete_ArrayList\obj\Debug\Delete_ArrayList.exe
+C:\Users\BeautifulBoy\source\repos\Delete_ArrayList\Delete_ArrayList\obj\Debug\Delete_ArrayList.pdb
