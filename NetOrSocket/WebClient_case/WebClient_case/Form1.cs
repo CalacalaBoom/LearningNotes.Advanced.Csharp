@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Net;
+using System.IO;
 
 namespace WebClient_case
 {
@@ -32,7 +33,17 @@ namespace WebClient_case
             else
             {
                 richTextBox1.Text = string.Empty;
-                
+                WebClient webc = new WebClient();
+                webc.BaseAddress = textBox1.Text;
+                webc.Encoding = Encoding.UTF8;
+                webc.Headers.Add("Content-Type", "application/x-www-form-urlencoded");
+                Stream stream = webc.OpenRead(textBox1.Text);
+                StreamReader sread = new StreamReader(stream);
+                string str = string.Empty;
+                while ((str=sread.ReadLine())!=null)
+                {
+                    richTextBox1.Text += str + "\n";
+                }
             }
         }
     }
