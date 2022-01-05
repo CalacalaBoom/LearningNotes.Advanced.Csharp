@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassParametersToTheThread", "PassParametersToTheThread\PassParametersToTheThread.csproj", "{87C26F3A-95D1-4A7F-ADED-48E8ED655EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C26F3A-95D1-4A7F-ADED-48E8ED655EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C26F3A-95D1-4A7F-ADED-48E8ED655EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C26F3A-95D1-4A7F-ADED-48E8ED655EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C26F3A-95D1-4A7F-ADED-48E8ED655EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54810D3D-1EF6-4AF2-8BC6-A5B7543A0289}
+	EndGlobalSection
+EndGlobal
